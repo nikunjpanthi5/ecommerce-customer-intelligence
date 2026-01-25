@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Data files (large CSV/Excel)
+data/raw/
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
